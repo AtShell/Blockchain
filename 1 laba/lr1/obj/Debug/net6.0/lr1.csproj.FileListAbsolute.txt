@@ -1,0 +1,30 @@
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\bin\Debug\net6.0\lr1.exe
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\bin\Debug\net6.0\lr1.deps.json
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\bin\Debug\net6.0\lr1.runtimeconfig.json
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\bin\Debug\net6.0\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\bin\Debug\net6.0\lr1.pdb
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.csproj.AssemblyReference.cache
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.AssemblyInfo.cs
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\refint\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.pdb
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\lr1.genruntimeconfig.cache
+C:\Users\Slava\Desktop\4 курс\Interface\lr1\obj\Debug\net6.0\ref\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\bin\Debug\net6.0\lr1.exe
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\bin\Debug\net6.0\lr1.deps.json
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\bin\Debug\net6.0\lr1.runtimeconfig.json
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\bin\Debug\net6.0\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\bin\Debug\net6.0\lr1.pdb
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.csproj.AssemblyReference.cache
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.AssemblyInfoInputs.cache
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.AssemblyInfo.cs
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.csproj.CoreCompileInputs.cache
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\refint\lr1.dll
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.pdb
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\lr1.genruntimeconfig.cache
+C:\Users\Slava\Desktop\4 курс\Blockchain\1 laba\lr1\obj\Debug\net6.0\ref\lr1.dll
