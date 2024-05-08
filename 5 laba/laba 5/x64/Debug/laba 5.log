@@ -1,0 +1,4 @@
+﻿  laba 5.cpp
+C:\Users\Slava\Desktop\4 курс\Blockchain\5 laba\laba 5\laba 5.cpp(13,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Slava\Desktop\4 курс\Blockchain\5 laba\laba 5\laba 5.cpp(22,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  laba 5.vcxproj -> C:\Users\Slava\Desktop\4 курс\Blockchain\5 laba\laba 5\x64\Debug\laba 5.exe
