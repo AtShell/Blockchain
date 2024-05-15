@@ -1,4 +1,4 @@
-﻿  laba 5.cpp
-C:\Users\Slava\Desktop\4 курс\Blockchain\5 laba\laba 5\laba 5.cpp(13,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-C:\Users\Slava\Desktop\4 курс\Blockchain\5 laba\laba 5\laba 5.cpp(22,21): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  laba 5.vcxproj -> C:\Users\Slava\Desktop\4 курс\Blockchain\5 laba\laba 5\x64\Debug\laba 5.exe
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (laba 5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  laba 5.cpp
+C:\Users\Slava\Desktop\4course\Dolgi\8_sem\Blockchain\5 laba\laba 5\laba 5.cpp(30,16): warning C4101: status: неиспользованная локальная переменная
+  laba 5.vcxproj -> C:\Users\Slava\Desktop\4course\Dolgi\8_sem\Blockchain\5 laba\laba 5\x64\Debug\laba_5.exe
